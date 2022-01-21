@@ -38,7 +38,7 @@
   "dependencies": {
     "@cryptape/cita-sdk": "^0.23.1",
     "chai": "^4.2.0",
-    "log4js": "^4.1.0",
+    "log4js": "^6.4.0",
     "mocha": "^6.1.4"
   }
 }
